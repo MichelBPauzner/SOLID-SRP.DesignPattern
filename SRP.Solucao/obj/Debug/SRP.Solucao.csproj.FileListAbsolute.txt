@@ -1,0 +1,6 @@
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Solucao\bin\Debug\SRP.Solucao.exe.config
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Solucao\bin\Debug\SRP.Solucao.exe
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Solucao\bin\Debug\SRP.Solucao.pdb
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Solucao\obj\Debug\SRP.Solucao.csproj.CoreCompileInputs.cache
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Solucao\obj\Debug\SRP.Solucao.exe
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Solucao\obj\Debug\SRP.Solucao.pdb

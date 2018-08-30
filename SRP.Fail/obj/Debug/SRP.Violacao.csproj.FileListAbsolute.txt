@@ -1,0 +1,6 @@
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Fail\obj\Debug\SRP.Violacao.csproj.CoreCompileInputs.cache
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Fail\obj\Debug\SRP.Fail.exe
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Fail\obj\Debug\SRP.Fail.pdb
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Fail\bin\Debug\SRP.Fail.exe.config
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Fail\bin\Debug\SRP.Fail.exe
+c:\users\miche\documents\visual studio 2017\Projects\MichelPauzner.SOLID\SRP.Fail\bin\Debug\SRP.Fail.pdb
